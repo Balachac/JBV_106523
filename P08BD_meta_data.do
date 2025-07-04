@@ -31,10 +31,10 @@ Run the do files in the following order. The sub-sections indicates the do files
 		1.11.1 sic.do
 		1.11.2 LM experience.do
 	1.12 family ties.do
-	1.12 performance.do
-		1.12.1 sic.do
-	1.13 diversity.do
-		1.13.1 EthnicGroups
+	1.13 performance.do
+		1.13.1 sic.do
+	1.14 diversity.do
+		1.14.1 EthnicGroups
 		
 2. P08BD_Models.do
 	2.1 director_destination
